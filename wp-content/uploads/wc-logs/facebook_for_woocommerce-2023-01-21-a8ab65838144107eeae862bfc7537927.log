@@ -1,0 +1,4 @@
+01-21-2023 @ 20:37:05 - Unable to detect valid feed configuration: No catalog ID
+01-21-2023 @ 21:24:40 - Une erreur est survenue lors de la tentative de synchronisation des produits à l’aide de l’API Catalog Batch pour la tâche 081d87a11f807ef7363062d7abd32fa9 : Impossible de créer l’instance d’API car le jeton d’accès est manquant.
+01-22-2023 @ 00:56:20 - Une erreur est survenue lors de la tentative de synchronisation des produits à l’aide de l’API Catalog Batch pour la tâche 8407c3c84572c2ceeb45bf49799ceeed : Impossible de créer l’instance d’API car le jeton d’accès est manquant.
+01-22-2023 @ 00:59:41 - Une erreur est survenue lors de la tentative de synchronisation des produits à l’aide de l’API Catalog Batch pour la tâche 3670c2e8ff10b3452398ff9a9f545c50 : Impossible de créer l’instance d’API car le jeton d’accès est manquant.
